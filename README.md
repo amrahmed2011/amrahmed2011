@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 About Me</h1>
 
 <p align="center">
-  Hi! I'm <strong>Amr Ahmed</strong> — a <strong>Junior Software Engineer</strong> who loves turning real-life problems into creative software solutions.
+  Hi! I'm <strong>Amr Ahmed</strong> — a <strong>Junior Software Engineer Student</strong> who loves turning real-life problems into creative software solutions.
 </p>
 
 ---
@@ -17,11 +17,9 @@
 </p>
 
 <p align="center">
-  <strong>Languages:</strong> JavaScript, Python, Java <br/>
-  <strong>Frontend:</strong> HTML, CSS, React <br/>
-  <strong>Backend:</strong> Node.js, Express <br/>
-  <strong>Databases:</strong> MongoDB, MySQL <br/>
-  <strong>Tools:</strong> Git, GitHub, VS Code, Postman
+  <strong>Languages:</strong> Arduino, Python, C++ <br/>
+  <strong>Electronics:</strong> arduino expert, embeded AI system devolopment <br/>
+  <strong>Robotics:</strong> Robotics Experts <br/>
 </p>
 
 ---
@@ -29,9 +27,9 @@
 <h3 align="center">🌱 Currently Learning</h3>
 
 <p align="center">
-  Full-Stack Development (Advanced) <br/>
-  Software Architecture & Design Patterns <br/>
-  AI Integration in Web Apps
+  IOT <br/>
+  AI <br/>
+  Embeded AI System Devolopment <br/>
 </p>
 
 ---
@@ -50,9 +48,7 @@
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  🌐 <a href="https://yourportfolio.com">Portfolio</a> <br/>
-  💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> <br/>
-  📧 your.email@example.com
+  💼 <a href="https://www.linkedin.com/in/amr-ahmed-b02b83264/">LinkedIn</a> <br/>
 </p>
 
 ---
